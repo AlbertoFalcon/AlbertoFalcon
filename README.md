@@ -9,6 +9,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlbertoFalcon&count_bg=%23060592&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
+I'm Alberto Falcón, a self-taught developer on my way to become a Full Stack Web developer.
+If you want to contact with me, I'll be happy to help you
+- falcon_ga@ciencias.unam.mx
+
+<!-- <img align="center" alt="GIF" src="https://github.com/AlbertoFalcon/AlbertoFalcon/blob/main/cat_coding.gif?raw=true" width="400" height="410" /> -->
+
 <h3>Tools and things I like to develop with:</h3>
 <p>
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -38,6 +44,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
+
 ![cyber4](https://user-images.githubusercontent.com/49957900/118926176-83137e80-b905-11eb-8f43-1e79844b9386.gif)
 <figcaption><i><strong>Murder, developed by CURVE DIGITAL<strong/><i/>  </figcaption>
 
