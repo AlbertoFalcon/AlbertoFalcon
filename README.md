@@ -14,7 +14,7 @@ If you want to contact with me, I'll be happy to help you
 - falcon_ga@ciencias.unam.mx
 
 <!-- <img align="center" alt="GIF" src="https://github.com/AlbertoFalcon/AlbertoFalcon/blob/main/cat_coding.gif?raw=true" width="400" height="410" /> -->
-
+<!--
 <h3>Tools and things I like to develop with:</h3>
 <p>
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -29,7 +29,7 @@ If you want to contact with me, I'll be happy to help you
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
 
 </p>
-
+-->
 <!--
 **AlbertoFalcon/AlbertoFalcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
