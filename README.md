@@ -3,9 +3,9 @@
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<!-- <a href="https://open.spotify.com/user/betoteto1015">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
+<a href="https://open.spotify.com/user/betoteto1015">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/150px-Spotify_logo_without_text.svg.png" />
+</a>
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlbertoFalcon&count_bg=%23060592&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
